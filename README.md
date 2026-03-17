@@ -1,24 +1,34 @@
 # Naman Ranka
 
-MS in Computer Engineering @ Arizona State University. I build things end-to-end — from SystemVerilog processors to production web apps.
+MS in Computer Engineering @ Arizona State University.
+I build things end-to-end — from SystemVerilog processors to production web apps.
 
 ---
 
 ### Featured Projects
 
 **[Trezzit](https://trezzit.com)** — Reimagining personal finance around item-level data | [Try the app](https://app.trezzit.com)
-Starting from shared expenses, building the best financial database powered by item-level data rather than transactions. React 19 PWA, Django REST Framework, PostgreSQL, Redis, Celery. AI receipt scanning with a two-pass LLM pipeline across 4 providers. Multi-currency support, push notifications, 995+ automated tests, 60+ API endpoints.
+
+Building the best financial database powered by item-level data rather than transactions — starting from shared expenses.
+React 19 PWA, Django REST Framework, PostgreSQL, Redis, Celery.
+AI receipt scanning with a two-pass LLM pipeline across 4 providers.
+Multi-currency support, push notifications, 995+ automated tests, 60+ API endpoints.
 
 **[SiliconCrew](https://github.com/naman-ranka/siliconcrew)** — Autonomous LLM agent for hardware design | Active research project
-Takes a natural language spec and produces synthesizable Verilog, verifies through simulation, debugs failures by reading waveforms, and synthesizes to GDSII via OpenROAD. 21-tool LangGraph agent with a Next.js UI (WebSocket streaming, waveform/schematic viewers) and full MCP server for Claude Desktop/VS Code.
+
+Takes a natural language spec and produces synthesizable Verilog, verifies through simulation, debugs failures by reading waveforms, and synthesizes to GDSII via OpenROAD.
+21-tool LangGraph agent with a Next.js UI (WebSocket streaming, waveform/schematic viewers) and full MCP server for Claude Desktop/VS Code.
 
 ---
 
 ### Other Work
 
-**Order Management System** — Django app running a wholesale jewelry business. 18,000+ orders processed, 3 user portals, WhatsApp Business API automation, reverse-engineered a third-party ERP via direct SQL (no API available). *Private repo.*
+**Order Management System** — Django app running a wholesale jewelry business.
+18,000+ orders processed, 3 user portals, WhatsApp Business API automation.
+Reverse-engineered a third-party ERP via direct SQL (no API available). *Private repo.*
 
-**Intel Open Source** — Sensor analytics microservice [merged into Intel's automated-self-checkout repo](https://github.com/intel-retail/automated-self-checkout/pull/655). Python, Docker, MQTT/Kafka, Grafana.
+**Intel Open Source** — Sensor analytics microservice [merged into Intel's automated-self-checkout repo](https://github.com/intel-retail/automated-self-checkout/pull/655).
+Python, Docker, MQTT/Kafka, Grafana.
 
 **Hackathon wins** — [AdaptED AI](https://github.com/naman-ranka/adaptedge-assignment-helper) (AI learning platform), [HEAL.AI](https://github.com/naman-ranka/HEAL_AI) (healthcare bill analyzer, won Devlabs + 2nd place), TwinGenius (Honeywell, NLP-to-digital-twin)
 
