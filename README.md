@@ -69,4 +69,6 @@ Generates Verilog, verifies via simulation, debugs by reading waveforms, synthes
 
 ---
 
-Python · TypeScript · JavaScript · C++ · SystemVerilog | Django · React · FastAPI · Next.js · LangGraph | PostgreSQL · Redis · Docker · MCP Protocol · OpenROAD
+`Python` `TypeScript` `JavaScript` `C++` `SystemVerilog`
+`Django` `React` `FastAPI` `Next.js` `LangGraph`
+`PostgreSQL` `Redis` `Docker` `MCP Protocol` `OpenROAD`
