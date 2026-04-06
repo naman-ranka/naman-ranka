@@ -1,4 +1,4 @@
-<h1 align="center">Naman Ranka</h1>
+<h1 align="center">Naman Yeshwanth Kumar</h1>
 
 <p align="center">
 MS in Computer Engineering @ Arizona State University<br>
